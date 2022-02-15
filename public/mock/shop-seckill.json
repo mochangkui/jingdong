@@ -1,0 +1,11 @@
+{
+  "status": 200,
+  "data": [{
+    "id": "4",
+    "name": "苹果1000g/份",
+    "imgUrl": "http://www.dell-lee.com/imgs/vue3/crab.png",
+    "sales": 10,
+    "price": 199.6,
+    "oldPrice": 299
+  }]
+}

@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "data": {
+    "id": 1,
+    "name": "沃尔玛",
+    "imgUrl": "http://www.dell-lee.com/imgs/vue3/near.png",
+    "sales": 10000,
+    "expressLimit": 20,
+    "expressPrice": 5,
+    "slogan": "VIP尊享满89元减4元运费券"
+  }
+}

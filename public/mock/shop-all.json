@@ -1,0 +1,32 @@
+{
+  "status": 200,
+  "data": [{
+    "id": "1",
+    "name": "番茄250g/份",
+    "imgUrl": "http://www.dell-lee.com/imgs/vue3/tomato.png",
+    "sales": 10,
+    "price": 33.6,
+    "oldPrice": 30.6
+  }, {
+    "id": "2",
+    "name": "车厘子250g/份",
+    "imgUrl": "http://www.dell-lee.com/imgs/vue3/cherry.png",
+    "sales": 10,
+    "price": 99.6,
+    "oldPrice": 119.6
+  }, {
+    "id": "3",
+    "name": "橙子500g/份",
+    "imgUrl": "http://www.dell-lee.com/imgs/vue3/orange.png",
+    "sales": 110,
+    "price": 12.6,
+    "oldPrice": 22.6
+  }, {
+    "id": "4",
+    "name": "苹果500g/份",
+    "imgUrl": "http://www.dell-lee.com/imgs/vue3/crab.png",
+    "sales": 10,
+    "price": 199.6,
+    "oldPrice": 299
+  }]
+}
